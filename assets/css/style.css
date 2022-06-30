@@ -493,6 +493,7 @@ section {
 }
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  border: 1px solid #2929294d;
 }
 .portfolio #portfolio-flters {
   padding: 0;
